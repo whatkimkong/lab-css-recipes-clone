@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+
+.background {
+    height: 500px;
+    width: 700px;
+    justify-content: center;
+    padding: 40px;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+    color: grey;
+}
+
+.intro {
+    text-align: center;
+    font-weight: lighter;
+}
+
+body {
+    background-color: white;
+    font-family: 'Trebuchet MS';
+    font-size: medium;
+    font-weight: lighter;
+}
+
+.infopic {
+    height: 50px;
+    justify-content: center;
+}
+
+h3 {
+    font-size: large;
+}
+.ul-list {
+    font-size: small;
+    list-style-type:circle;
+    font-weight: lighter;
+}
+
+.ol-list {
+    font-size: small;
+    font-weight: lighter;
+}
